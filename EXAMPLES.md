@@ -13,3 +13,7 @@
 - subagent: docer expert in writing docs
 - hook: dot env protector
 - mcp: 
+    - custom: financial-data server. claude query Financial_Sample.xlsx directly instead of writing a one-off script each time. 
+    - public: playwright mcp lets claude open and use the running dashboard in a real browsedr
+- github: issue implementation, auto pr review 
+- workflow automation
