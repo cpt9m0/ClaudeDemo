@@ -9,7 +9,7 @@
 - add testcases
 - plan: dark mode feature. user should be able to toggle dark mode on/off.
 - chagne date range from slidebar to date picker.
-- skill: streamlit skill
+- skill: streamlit skill --> https://docs.streamlit.io/develop/api-reference/cli/skills
 - subagent: docer expert in writing docs
 - hook: dot env protector
 - mcp: 
