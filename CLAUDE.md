@@ -6,3 +6,4 @@
 
 ## Development Rules
 - Use `uv` for `Python` runtime and package management. Run `uv --help` for more information.
+- Use `streamlit` for the dashboard development.
